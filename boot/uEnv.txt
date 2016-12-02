@@ -1,9 +1,9 @@
 #Docs: http://elinux.org/Beagleboard:U-boot_partitioning_layout_2.0
 
-uname_r=4.5.0-botic7-rc1
+uname_r=4.8.11-botic7-rc2
 
-dtb=am335x-boneblack.dtb
-#dtb=am335x-boneblack-botic.dtb
+#dtb=am335x-boneblack.dtb
+dtb=am335x-boneblack-botic.dtb
 #dtb=am335x-boneblack-botic-sabre32.dtb
 
 cmdline=coherent_pool=1M imgpart=/dev/mmcblk0p2 imgfile=/volumio_current.sqsh quiet
