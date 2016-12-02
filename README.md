@@ -2,15 +2,10 @@
 
 Initial version of platform-BBB.
 
-Uses 4.5.0-botic7-rc1 kernel from following source:
+Uses 4.8.11-botic7-rc2 kernel from following source:
 
 Binaries: http://repo.ieero.com/botic/pool/main/l/linux-upstream/
-Source: https://github.com/miero/linux-dev/tree/botic7
-
-
-Includes binary patches for edma and davinci-mcasp compiled from:
-https://github.com/miero/botic-dev
-
+Source: https://github.com/miero/linux-dev/tree/v48
 
 By default it uses a standard 'am335x-boneblack.dtb' configuration.
 
