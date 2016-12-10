@@ -1,6 +1,6 @@
 #Docs: http://elinux.org/Beagleboard:U-boot_partitioning_layout_2.0
 
-uname_r=4.8.11-botic7-rc2
+uname_r=4.8.13-botic7-rc3
 
 #dtb=am335x-boneblack.dtb
 dtb=am335x-boneblack-botic.dtb
